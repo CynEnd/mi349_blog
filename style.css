@@ -34,3 +34,14 @@ a {
     color:black;
     padding: 10px;
 }
+
+@media (max-width: 400px) {
+    body {
+        width:390px;
+        padding:10px 10pc;
+    }
+    #blog {
+        margin: 0 auto;
+    }
+
+}
